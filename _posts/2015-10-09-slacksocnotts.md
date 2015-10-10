@@ -23,7 +23,7 @@ Slack has two separate concepts: `groups` and `channels`. A channel is a *public
 
 Channels are an open discussion channel that are usually based around a theme or topic. For instance, there is [`#hacksoc`](https://hacksocnotts.slack.com/messages/hacksoc/) for general chat about Hacksoc events, [`#java`](https://hacksocnotts.slack.com/messages/java/) for any questions or conversations about programming in Java, and [`#general`](https://hacksocnotts.slack.com/messages/general/) for off topic discussions that don't really fit elsewhere.
 
-There are also groups, which are a private area to discuss a certain topic. These are more useful for conversations you don't want everyone involved in - for instance, having a group for your CS friends where you can chat about uni work, or where you can plan to go to competitive programming sessions. In the exec, we have groups for things like planning [HackNotts](http://hacknotts.com), <span style="color:red;font-weight:bold">the [Introduction to Programming Programming sessions]( post_url 2015-10-09-itp ) </span>and other boring admin stuff.
+There are also groups, which are a private area to discuss a certain topic. These are more useful for conversations you don't want everyone involved in - for instance, having a group for your CS friends where you can chat about uni work, or where you can plan to go to competitive programming sessions. In the exec, we have groups for things like planning [HackNotts](http://hacknotts.com), the [Introduction to Programming Programming sessions]({% post_url 2015-10-10-introduction-to-python-programming %}) and other boring admin stuff.
 
 ## How do notifications work?
 
